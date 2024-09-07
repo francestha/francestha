@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thaíse Alves! My user is @francestha.
-- 🌱 I’m currently learning Data Analysis with Python in {reprograma}
+- 🌱 I’m currently learning Data Analysis with Python at {reprograma}
 - 📫 How to reach me: thaise.lvs11@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a huge cinephile. I love discover different places and cultures through movies.
